@@ -23,3 +23,6 @@ public:
         return start;
     }
 };
+
+/* Agar target number array me mil jaye, to uska index return karo.
+ Agar target number na mile, to batao ki sorted array me use kis index par insert karna chahiye taaki array sorted hi rahe   */
